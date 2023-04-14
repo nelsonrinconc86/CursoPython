@@ -6,6 +6,15 @@ class Vista:
         self.miFormulario.title("Formulario Registro Cliente")
         
         
+        
+    
+    def InicioVentanas(self):
         self.miFormulario.mainloop()
     
+
+
+
 Formulario=Vista()
+Formulario.InicioVentanas()
+
+
