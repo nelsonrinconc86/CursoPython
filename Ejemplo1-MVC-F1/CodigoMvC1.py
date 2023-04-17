@@ -1,7 +1,8 @@
 import tkinter as Ventana
 
+':pencil2: '
 #********* Clase del Patron Vista.........*************************
-:pencil2: 
+
     """
     Crear una clase Vista que se encargue de presentar los datos al usuario. 
     Esta clase deberá tener métodos para mostrar formularios, campos de entrada, 
