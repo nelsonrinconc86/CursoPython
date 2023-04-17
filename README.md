@@ -14,32 +14,28 @@ Al finalizar el curso, los estudiantes estarán equipados con los conocimientos 
 #### :bookmark_tabs: Introducción a Python
 
 :small_orange_diamond: ¿Qué es Python?. <br>
-:small_orange_diamond: Ventajas de Python
-:small_orange_diamond: Instalación y configuración del entorno de desarrollo (visual code studio)
-:small_orange_diamond: Fundamentos de programación en Python
-:small_orange_diamond: Variables y tipos de datos
-:small_orange_diamond: Operadores aritméticos, lógicos y de comparación
-:small_orange_diamond: Estructuras de control de flujo: if, else, elif, while, for
-:small_orange_diamond: Funciones Vacias, con parametros y uso de retornos
-:small_orange_diamond: Entrada y salida de datos por consola
+:small_orange_diamond: Ventajas de Python. <br>
+:small_orange_diamond: Instalación y configuración del entorno de desarrollo (visual code studio).<br>
+:small_orange_diamond: Fundamentos de programación en Python.<br>
+:small_orange_diamond: Variables y tipos de datos.<br>
+:small_orange_diamond: Operadores aritméticos, lógicos y de comparación.<br>
+:small_orange_diamond: Estructuras de control de flujo: if, else, elif, while, for.<br>
+:small_orange_diamond: Funciones Vacias, con parametros y uso de retornos.<br>
+:small_orange_diamond: Entrada y salida de datos por consola.<br>
 
-:bookmark_tabs: #### Estructuras de datos en Python
-:small_orange_diamond: Listas
-:small_orange_diamond: Tuplas
-:small_orange_diamond: Diccionarios
-:small_orange_diamond: Estructuras Anidadas
-
-
+### :bookmark_tabs: Estructuras de datos en Python.
+:small_orange_diamond: Listas.<br>
+:small_orange_diamond: Tuplas.<br>
+:small_orange_diamond: Diccionarios.<br>
+:small_orange_diamond: Estructuras Anidadas.<br>
 
 
+### :bookmark_tabs: Módulos y librerías en Python.
+:small_orange_diamond: Uso de módulos y librerías.<br>
+:small_orange_diamond: Introducción a Tkinter.
+:small_orange_diamond: Diseño de la interfaz de usuario
 
-Módulos y librerías en Python
-Uso de módulos y librerías
-Ejemplos de librerías: math, random, time
-Introducción a NumPy y Pandas
-Introducción al desarrollo web con Python
-Flask: creación de una aplicación web básica
-Creación de rutas y vistas
-Templates y diseño de la interfaz de usuario
-Proyecto final
-Desarrollo de una aplicación Python completa, utilizando los conceptos aprendidos en el curso
+### :bookmark_tabs: Paradigma y Patrones de Diseño de Software.
+:small_orange_diamond: Introducción POO
+:small_orange_diamond: Introduccion al MVC
+:small_orange_diamond: Interfaz de usuario POO - MVC
