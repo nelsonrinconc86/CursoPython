@@ -1,6 +1,6 @@
 import tkinter as Ventana
 
-':pencil2: '
+
 #********* Clase del Patron Vista.........*************************
 
     """
