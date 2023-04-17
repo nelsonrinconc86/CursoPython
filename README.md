@@ -32,10 +32,10 @@ Al finalizar el curso, los estudiantes estarán equipados con los conocimientos 
 
 ### :bookmark_tabs: Módulos y librerías en Python.
 :small_orange_diamond: Uso de módulos y librerías.<br>
-:small_orange_diamond: Introducción a Tkinter.
-:small_orange_diamond: Diseño de la interfaz de usuario
+:small_orange_diamond: Introducción a Tkinter.<br>
+:small_orange_diamond: Diseño de la interfaz de usuario.<br>
 
 ### :bookmark_tabs: Paradigma y Patrones de Diseño de Software.
-:small_orange_diamond: Introducción POO
-:small_orange_diamond: Introduccion al MVC
-:small_orange_diamond: Interfaz de usuario POO - MVC
+:small_orange_diamond: Introducción POO.<br>
+:small_orange_diamond: Introduccion al MVC.<br>
+:small_orange_diamond: Interfaz de usuario POO - MVC.<br>
