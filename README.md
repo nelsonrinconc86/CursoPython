@@ -1,6 +1,6 @@
 # Curso Python
 
-[x] :open_file_folder: ---Introducción al Curso de Python---
+## :open_file_folder: Introducción al Curso de Python
 
 Python es uno de los lenguajes de programación más populares y versátiles de la actualidad. Su sintaxis simple y legible, así como su amplia variedad de módulos y librerías, lo hacen ideal para proyectos de todo tipo, desde análisis de datos hasta desarrollo de aplicaciones web.
 
