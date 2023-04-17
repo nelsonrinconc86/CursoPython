@@ -8,10 +8,10 @@ En este curso, se aprenderán los conceptos básicos de programación en Python,
 
 Al finalizar el curso, los estudiantes estarán equipados con los conocimientos necesarios para empezar a desarrollar proyectos en Python, así como para continuar su aprendizaje en esta poderosa herramienta de programación.
 
-:pushpin: ## Contenido del Curso.
+## :pushpin:  Contenido del Curso.
 
 
-:bookmark_tabs: #### Introducción a Python
+#### :bookmark_tabs: Introducción a Python
 
 :small_orange_diamond: ¿Qué es Python?
 :small_orange_diamond: Ventajas de Python
