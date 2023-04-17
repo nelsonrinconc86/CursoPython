@@ -13,7 +13,7 @@ Al finalizar el curso, los estudiantes estarán equipados con los conocimientos 
 
 #### :bookmark_tabs: Introducción a Python
 
-:small_orange_diamond: ¿Qué es Python?
+:small_orange_diamond: ¿Qué es Python? <br/>
 :small_orange_diamond: Ventajas de Python
 :small_orange_diamond: Instalación y configuración del entorno de desarrollo (visual code studio)
 :small_orange_diamond: Fundamentos de programación en Python
