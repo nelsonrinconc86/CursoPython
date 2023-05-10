@@ -1,7 +1,9 @@
 import tkinter as Ventana
 
+
 #********* Clase del Patron Vista.........*************************
-"""
+
+    """
     Crear una clase Vista que se encargue de presentar los datos al usuario. 
     Esta clase deberá tener métodos para mostrar formularios, campos de entrada, 
     botones y otros elementos de la interfaz de usuario. La clase Vista también deberá tener métodos
